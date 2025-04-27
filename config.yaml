@@ -24,6 +24,10 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "MuZero": 
         filters: ["MuZero", "AlphaZero"]
+    "EfficientZero":
+        filters: ["EfficientZero"]
+    "Dreamer":
+        filters: ["Dreamer"]
     "Doudizhu":
         filters: ["AlphaDou", "Doudizhu", "DouZero"]
         
