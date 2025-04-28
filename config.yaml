@@ -23,11 +23,9 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "MuZero": 
-        filters: ["MuZero", "AlphaZero"]
-    "EfficientZero":
-        filters: ["EfficientZero"]
-    "Dreamer":
-        filters: ["Dreamer"]
+        filters: ["MuZero", "AlphaZero", "EfficientZero", "DreamerV3", "DreamerV2", "DreamerV1", "Gumbel MuZero"]
+    "Game":
+        filters: ["atari", "Mahjong", "Gomoku", "Chess", "ChineseChess", "MOBA"]
     "Doudizhu":
         filters: ["AlphaDou", "Doudizhu", "DouZero"]
         
