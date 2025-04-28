@@ -1,4 +1,4 @@
-## Updated on 2025.04.27
+## Updated on 2025.04.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -26,7 +26,7 @@
 |**2025-02-17**|**TSS GAZ PTP: Towards Improving Gumbel AlphaZero with Two-stage Self-play for Multi-constrained Electric Vehicle Routing Problems**|Hui Wang et.al.|[2502.15777](http://arxiv.org/abs/2502.15777)|null|
 |**2025-02-19**|**Playing Hex and Counter Wargames using Reinforcement Learning and Recurrent Neural Networks**|Guilherme Palma et.al.|[2502.13918](http://arxiv.org/abs/2502.13918)|**[link](https://github.com/guilherme439/nuzero)**|
 
-<p align=right>(<a href=#updated-on-20250427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 ## Doudizhu
 
@@ -43,7 +43,7 @@
 |**2021-06-11**|**DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning**|Daochen Zha et.al.|[2106.06135](http://arxiv.org/abs/2106.06135)|**[link](https://github.com/kwai/DouZero)**|
 |**2012-01-18**|**Electric dipole polarizability and the neutron skin**|J. Piekarewicz et.al.|[1201.3807](http://arxiv.org/abs/1201.3807)|null|
 
-<p align=right>(<a href=#updated-on-20250427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 ## EfficientZero
 
@@ -56,7 +56,7 @@
 |**2021-12-12**|**Mastering Atari Games with Limited Data**|Weirui Ye et.al.|[2111.00210](http://arxiv.org/abs/2111.00210)|**[link](https://github.com/werner-duvaud/muzero-general)**|
 |**2022-03-19**|**Is Policy Learning Overrated?: Width-Based Planning and Active Learning for Atari**|Benjamin Ayton et.al.|[2109.15310](http://arxiv.org/abs/2109.15310)|**[link](https://github.com/ibm/atari-active-learning)**|
 
-<p align=right>(<a href=#updated-on-20250427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 ## Dreamer
 
@@ -73,7 +73,7 @@
 |**2024-11-20**|**Metacognition for Unknown Situations and Environments (MUSE)**|Rodolfo Valiente et.al.|[2411.13537](http://arxiv.org/abs/2411.13537)|null|
 |**2024-11-13**|**Evaluating World Models with LLM for Decision Making**|Chang Yang et.al.|[2411.08794](http://arxiv.org/abs/2411.08794)|null|
 
-<p align=right>(<a href=#updated-on-20250427>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250428>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
