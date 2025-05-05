@@ -1,4 +1,4 @@
-## Updated on 2025.05.01
+## Updated on 2025.05.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2025-02-08**|**Efficient Reinforcement Learning Through Adaptively Pretrained Visual Encoder**|Yuhan Zhang et.al.|[2502.05555](http://arxiv.org/abs/2502.05555)|null|
 |**2025-02-03**|**Improving Transformer World Models for Data-Efficient RL**|Antoine Dedieu et.al.|[2502.01591](http://arxiv.org/abs/2502.01591)|null|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250505>back to top</a>)</p>
 
 ## Game
 
@@ -62,7 +62,7 @@
 |**2025-04-03**|**Deep Reinforcement Learning via Object-Centric Attention**|Jannis Blüml et.al.|[2504.03024](http://arxiv.org/abs/2504.03024)|**[link](https://github.com/VanillaWhey/OCAtariWrappers)**|
 |**2025-03-30**|**Quantum Methods for Managing Ambiguity in Natural Language Processing**|Jurek Eisinger et.al.|[2504.00040](http://arxiv.org/abs/2504.00040)|**[link](https://github.com/jurekjurek/managingambiguity)**|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250505>back to top</a>)</p>
 
 ## Doudizhu
 
@@ -79,7 +79,7 @@
 |**2021-06-11**|**DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning**|Daochen Zha et.al.|[2106.06135](http://arxiv.org/abs/2106.06135)|**[link](https://github.com/kwai/DouZero)**|
 |**2012-01-18**|**Electric dipole polarizability and the neutron skin**|J. Piekarewicz et.al.|[1201.3807](http://arxiv.org/abs/1201.3807)|null|
 
-<p align=right>(<a href=#updated-on-20250501>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250505>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
