@@ -1,4 +1,4 @@
-## Updated on 2025.05.05
+## Updated on 2025.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |**2025-04-07**|**A Behavior-Based Knowledge Representation Improves Prediction of Players' Moves in Chess by 25%**|Benny Skidanov et.al.|[2504.05425](http://arxiv.org/abs/2504.05425)|null|
 |**2025-03-26**|**World Model Agents with Change-Based Intrinsic Motivation**|Jeremias Ferrao et.al.|[2503.21047](http://arxiv.org/abs/2503.21047)|**[link](https://github.com/Jazhyc/world-model-policy-transfer)**|
 |**2025-03-17**|**Rapfi: Distilling Efficient Neural Network for the Game of Gomoku**|Zhanggen Jin et.al.|[2503.13178](http://arxiv.org/abs/2503.13178)|null|
-|**2025-04-08**|**Rotated Bitboards and Reinforcement Learning in Computer Chess and Beyond**|Johannes Buchner et.al.|[2503.10822](http://arxiv.org/abs/2503.10822)|null|
+|**2025-05-05**|**Reinforcement Learning and Life Cycle Assessment for a Circular Economy -- Towards Progressive Computer Science**|Johannes Buchner et.al.|[2503.10822](http://arxiv.org/abs/2503.10822)|null|
 |**2025-03-11**|**Meta-Reinforcement Learning with Discrete World Models for Adaptive Load Balancing**|Cameron Redovian et.al.|[2503.08872](http://arxiv.org/abs/2503.08872)|null|
 |**2025-02-20**|**Alignment, Agency and Autonomy in Frontier AI: A Systems Engineering Perspective**|Krti Tallam et.al.|[2503.05748](http://arxiv.org/abs/2503.05748)|null|
 |**2025-03-07**|**InDRiVE: Intrinsic Disagreement based Reinforcement for Vehicle Exploration through Curiosity Driven Generalized World Model**|Feeza Khan Khanzada et.al.|[2503.05573](http://arxiv.org/abs/2503.05573)|null|
@@ -35,12 +35,14 @@
 |**2025-02-08**|**Efficient Reinforcement Learning Through Adaptively Pretrained Visual Encoder**|Yuhan Zhang et.al.|[2502.05555](http://arxiv.org/abs/2502.05555)|null|
 |**2025-02-03**|**Improving Transformer World Models for Data-Efficient RL**|Antoine Dedieu et.al.|[2502.01591](http://arxiv.org/abs/2502.01591)|null|
 
-<p align=right>(<a href=#updated-on-20250505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250506>back to top</a>)</p>
 
 ## Game
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-01**|**Policies of Multiple Skill Levels for Better Strength Estimation in Games**|Kyota Kuboki et.al.|[2505.00279](http://arxiv.org/abs/2505.00279)|null|
+|**2025-04-30**|**Leveraging Systems and Control Theory for Social Robotics: A Model-Based Behavioral Control Approach to Human-Robot Interaction**|Maria Morão Patrício et.al.|[2504.21548](http://arxiv.org/abs/2504.21548)|null|
 |**2025-04-19**|**Research Power Ranking: Adapting the Elo System to Quantify Scientist Evaluation**|Eldar Knar et.al.|[2504.20061](http://arxiv.org/abs/2504.20061)|null|
 |**2025-04-24**|**Do We Need Transformers to Play FPS Video Games?**|Karmanbir Batth et.al.|[2504.17891](http://arxiv.org/abs/2504.17891)|null|
 |**2025-04-20**|**AlphaZero-Edu: Making AlphaZero Accessible to Everyone**|Binjie Guo et.al.|[2504.14636](http://arxiv.org/abs/2504.14636)|**[link](https://github.com/starlight1212/alphazero_edu)**|
@@ -62,7 +64,7 @@
 |**2025-04-03**|**Deep Reinforcement Learning via Object-Centric Attention**|Jannis Blüml et.al.|[2504.03024](http://arxiv.org/abs/2504.03024)|**[link](https://github.com/VanillaWhey/OCAtariWrappers)**|
 |**2025-03-30**|**Quantum Methods for Managing Ambiguity in Natural Language Processing**|Jurek Eisinger et.al.|[2504.00040](http://arxiv.org/abs/2504.00040)|**[link](https://github.com/jurekjurek/managingambiguity)**|
 
-<p align=right>(<a href=#updated-on-20250505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250506>back to top</a>)</p>
 
 ## Doudizhu
 
@@ -79,7 +81,7 @@
 |**2021-06-11**|**DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning**|Daochen Zha et.al.|[2106.06135](http://arxiv.org/abs/2106.06135)|**[link](https://github.com/kwai/DouZero)**|
 |**2012-01-18**|**Electric dipole polarizability and the neutron skin**|J. Piekarewicz et.al.|[1201.3807](http://arxiv.org/abs/1201.3807)|null|
 
-<p align=right>(<a href=#updated-on-20250505>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250506>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
