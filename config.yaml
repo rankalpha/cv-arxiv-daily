@@ -30,6 +30,7 @@ keywords:
         filters: ["AlphaDou", "Doudizhu", "DouZero"]
     "Reward Shaping":
         filters: ["Reward Shaping"]
-    "Potential Funtions":
-        filters: ["Potential Funtions"]
-        
+    "Potential Funtion":
+        filters: ["Potential Funtion"]
+    "State representation learning":
+        filters: ["State representation learning"]
