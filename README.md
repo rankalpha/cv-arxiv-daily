@@ -9,6 +9,8 @@
     <li><a href=#doudizhu>Doudizhu</a></li>
     <li><a href=#reward-shaping>Reward Shaping</a></li>
     <li><a href=#potential-funtions>Potential Funtions</a></li>
+    <li><a href=#potential-funtion>Potential Funtion</a></li>
+    <li><a href=#state-representation-learning>State representation learning</a></li>
   </ol>
 </details>
 
@@ -175,6 +177,61 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2002-12-19**|**DNA Torsional Solitons in Presence of localized Inhomogeneities**|Luis Morales Molina et.al.|[nlin/0112040](http://arxiv.org/abs/nlin/0112040)|null|
+
+<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+
+## Potential Funtion
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2002-12-19**|**DNA Torsional Solitons in Presence of localized Inhomogeneities**|Luis Morales Molina et.al.|[nlin/0112040](http://arxiv.org/abs/nlin/0112040)|null|
+
+<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+
+## State representation learning
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-02-04**|**Policy-Guided Causal State Representation for Offline Reinforcement Learning Recommendation**|Siyu Wang et.al.|[2502.02327](http://arxiv.org/abs/2502.02327)|null|
+|**2025-03-06**|**Learning Quadrotor Control From Visual Features Using Differentiable Simulation**|Johannes Heeg et.al.|[2410.15979](http://arxiv.org/abs/2410.15979)|**[link](https://github.com/uzh-rpg/rpg_flightning)**|
+|**2025-03-11**|**Adaptive Task Allocation in Multi-Human Multi-Robot Teams under Team Heterogeneity and Dynamic Information Uncertainty**|Ziqin Yuan et.al.|[2409.13824](http://arxiv.org/abs/2409.13824)|null|
+|**2024-07-18**|**On Causally Disentangled State Representation Learning for Reinforcement Learning based Recommender Systems**|Siyu Wang et.al.|[2407.13091](http://arxiv.org/abs/2407.13091)|null|
+|**2024-07-16**|**Learning telic-controllable state representations**|Nadav Amir et.al.|[2406.14476](http://arxiv.org/abs/2406.14476)|null|
+|**2024-05-22**|**Maximum Manifold Capacity Representations in State Representation Learning**|Li Meng et.al.|[2405.13848](http://arxiv.org/abs/2405.13848)|null|
+|**2023-12-03**|**Towards Goal-oriented Intelligent Tutoring Systems in Online Education**|Yang Deng et.al.|[2312.10053](http://arxiv.org/abs/2312.10053)|null|
+|**2024-01-04**|**States as goal-directed concepts: an epistemic approach to state-representation learning**|Nadav Amir et.al.|[2312.02367](http://arxiv.org/abs/2312.02367)|null|
+|**2023-10-22**|**Robust Visual Imitation Learning with Inverse Dynamics Representations**|Siyuan Li et.al.|[2310.14274](http://arxiv.org/abs/2310.14274)|null|
+|**2023-10-09**|**Improving Reinforcement Learning Efficiency with Auxiliary Tasks in Non-Visual Environments: A Comparison**|Moritz Lange et.al.|[2310.04241](http://arxiv.org/abs/2310.04241)|null|
+|**2023-12-15**|**On learning latent dynamics of the AUG plasma state**|A. Kit et.al.|[2308.14556](http://arxiv.org/abs/2308.14556)|**[link](https://github.com/digifusion/latent-state-modeling)**|
+|**2023-11-04**|**Sparse Modular Activation for Efficient Sequence Modeling**|Liliang Ren et.al.|[2306.11197](http://arxiv.org/abs/2306.11197)|**[link](https://github.com/renll/seqboat)**|
+|**2023-05-18**|**Contrastive State Augmentations for Reinforcement Learning-Based Recommender Systems**|Zhaochun Ren et.al.|[2305.11081](http://arxiv.org/abs/2305.11081)|**[link](https://github.com/hn-rs/csa)**|
+|**2024-06-24**|**State Representation Learning Using an Unbalanced Atlas**|Li Meng et.al.|[2305.10267](http://arxiv.org/abs/2305.10267)|**[link](https://github.com/mengli11235/dim-ua)**|
+|**2023-05-04**|**Masked Trajectory Models for Prediction, Representation, and Control**|Philipp Wu et.al.|[2305.02968](http://arxiv.org/abs/2305.02968)|**[link](https://github.com/facebookresearch/mtm)**|
+|**2023-03-13**|**Unsupervised Representation Learning in Partially Observable Atari Games**|Li Meng et.al.|[2303.07437](http://arxiv.org/abs/2303.07437)|**[link](https://github.com/mengli11235/mst_dim)**|
+|**2024-03-13**|**Can Direct Latent Model Learning Solve Linear Quadratic Gaussian Control?**|Yi Tian et.al.|[2212.14511](http://arxiv.org/abs/2212.14511)|null|
+|**2022-09-12**|**Unified State Representation Learning under Data Augmentation**|Taylor Hearn et.al.|[2209.05302](http://arxiv.org/abs/2209.05302)|**[link](https://github.com/SVJayanthi/dmcontrol-generalization-benchmark)**|
+|**2022-05-04**|**State Representation Learning for Goal-Conditioned Reinforcement Learning**|Lorenzo Steccanella et.al.|[2205.01965](http://arxiv.org/abs/2205.01965)|null|
+|**2022-11-14**|**Approximate Policy Iteration with Bisimulation Metrics**|Mete Kemertas et.al.|[2202.02881](http://arxiv.org/abs/2202.02881)|**[link](https://github.com/metekemertas/api-bisim)**|
+|**2022-10-09**|**Mask-based Latent Reconstruction for Reinforcement Learning**|Tao Yu et.al.|[2201.12096](http://arxiv.org/abs/2201.12096)|**[link](https://github.com/microsoft/Mask-based-Latent-Reconstruction)**|
+|**2022-01-18**|**Accelerating Representation Learning with View-Consistent Dynamics in Data-Efficient Reinforcement Learning**|Tao Huang et.al.|[2201.07016](http://arxiv.org/abs/2201.07016)|null|
+|**2022-07-26**|**DiffSRL: Learning Dynamical State Representation for Deformable Object Manipulation with Differentiable Simulator**|Sirui Chen et.al.|[2110.12352](http://arxiv.org/abs/2110.12352)|**[link](https://github.com/ericcsr/diffsrl)**|
+|**2022-06-19**|**Action-Sufficient State Representation Learning for Control with Structural Constraints**|Biwei Huang et.al.|[2110.05721](http://arxiv.org/abs/2110.05721)|null|
+|**2021-10-02**|**Seeking Visual Discomfort: Curiosity-driven Representations for Reinforcement Learning**|Elie Aljalbout et.al.|[2110.00784](http://arxiv.org/abs/2110.00784)|null|
+|**2022-02-15**|**Exploratory State Representation Learning**|Astrid Merckling et.al.|[2109.13596](http://arxiv.org/abs/2109.13596)|**[link](https://github.com/astrid-merckling/SRL4RL)**|
+|**2021-09-28**|**Making Curiosity Explicit in Vision-based RL**|Elie Aljalbout et.al.|[2109.13588](http://arxiv.org/abs/2109.13588)|null|
+|**2023-12-09**|**POAR: Efficient Policy Optimization via Online Abstract State Representation Learning**|Zhaorun Chen et.al.|[2109.08642](http://arxiv.org/abs/2109.08642)|**[link](https://github.com/billchan226/poar-srl-4-robot)**|
+|**2021-09-14**|**Comparing Reconstruction- and Contrastive-based Models for Visual Task Planning**|Constantinos Chamzas et.al.|[2109.06737](http://arxiv.org/abs/2109.06737)|null|
+|**2021-07-04**|**Low Dimensional State Representation Learning with Robotics Priors in Continuous Action Spaces**|Nicolò Botteghi et.al.|[2107.01667](http://arxiv.org/abs/2107.01667)|null|
+|**2021-06-28**|**Improving Prediction of Low-Prior Clinical Events with Simultaneous General Patient-State Representation Learning**|Matthew Barren et.al.|[2106.14838](http://arxiv.org/abs/2106.14838)|null|
+|**2021-06-09**|**Pretrained Encoders are All You Need**|Mina Khan et.al.|[2106.05139](http://arxiv.org/abs/2106.05139)|**[link](https://github.com/PAL-ML/PEARL_v1)**|
+|**2021-03-07**|**Multimodal VAE Active Inference Controller**|Cristian Meo et.al.|[2103.04412](http://arxiv.org/abs/2103.04412)|**[link](https://github.com/Cmeo97/MAIF)**|
+|**2021-03-07**|**Learning a State Representation and Navigation in Cluttered and Dynamic Environments**|David Hoeller et.al.|[2103.04351](http://arxiv.org/abs/2103.04351)|null|
+|**2021-11-05**|**Learning State Representations from Random Deep Action-conditional Predictions**|Zeyu Zheng et.al.|[2102.04897](http://arxiv.org/abs/2102.04897)|**[link](https://github.com/Hwhitetooth/random_gvfs)**|
+|**2021-01-07**|**Low Dimensional State Representation Learning with Reward-shaped Priors**|Nicolò Botteghi et.al.|[2007.16044](http://arxiv.org/abs/2007.16044)|null|
+|**2020-05-13**|**Progressive growing of self-organized hierarchical representations for exploration**|Mayalen Etcheverry et.al.|[2005.06369](http://arxiv.org/abs/2005.06369)|null|
+|**2021-02-16**|**Graph-based State Representation for Deep Reinforcement Learning**|Vikram Waradpande et.al.|[2004.13965](http://arxiv.org/abs/2004.13965)|null|
+|**2020-02-27**|**Acceleration of Actor-Critic Deep Reinforcement Learning for Visual Grasping in Clutter by State Representation Learning Based on Disentanglement of a Raw Input Image**|Taewon Kim et.al.|[2002.11903](http://arxiv.org/abs/2002.11903)|null|
+|**2021-06-04**|**Domain-Adversarial and Conditional State Space Model for Imitation Learning**|Ryo Okumura et.al.|[2001.11628](http://arxiv.org/abs/2001.11628)|null|
 
 <p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
 
