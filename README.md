@@ -8,6 +8,7 @@
     <li><a href=#game>Game</a></li>
     <li><a href=#doudizhu>Doudizhu</a></li>
     <li><a href=#reward-shaping>Reward Shaping</a></li>
+    <li><a href=#potential-funtions>Potential Funtions</a></li>
   </ol>
 </details>
 
@@ -166,6 +167,14 @@
 |**2025-01-19**|**Blockchain-assisted Demonstration Cloning for Multi-Agent Deep Reinforcement Learning**|Ahmed Alagha et.al.|[2501.10938](http://arxiv.org/abs/2501.10938)|null|
 |**2025-01-13**|**Online inductive learning from answer sets for efficient reinforcement learning exploration**|Celeste Veronese et.al.|[2501.07445](http://arxiv.org/abs/2501.07445)|null|
 |**2025-02-20**|**AlphaPO -- Reward shape matters for LLM alignment**|Aman Gupta et.al.|[2501.03884](http://arxiv.org/abs/2501.03884)|null|
+
+<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+
+## Potential Funtions
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2002-12-19**|**DNA Torsional Solitons in Presence of localized Inhomogeneities**|Luis Morales Molina et.al.|[nlin/0112040](http://arxiv.org/abs/nlin/0112040)|null|
 
 <p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
 
