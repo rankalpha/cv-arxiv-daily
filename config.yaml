@@ -5,7 +5,7 @@ repo_name: "cv-arxiv-daily"
 show_authors: True
 show_links: True
 show_badge: True
-max_results: 20
+max_results: 40
 
 publish_readme: True
 publish_gitpage: True
@@ -28,4 +28,6 @@ keywords:
         filters: ["atari", "Mahjong", "Gomoku", "Chess", "ChineseChess", "MOBA"]
     "Doudizhu":
         filters: ["AlphaDou", "Doudizhu", "DouZero"]
+    "Reward Shaping":
+        filters: ["Reward Shaping"]
         
