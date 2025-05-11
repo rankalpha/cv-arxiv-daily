@@ -1,4 +1,4 @@
-## Updated on 2025.05.07
+## Updated on 2025.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**Reinforcement Learning-Aided Design of Efficient Polarization Kernels**|Yi-Ting Hong et.al.|[2505.04127](http://arxiv.org/abs/2505.04127)|null|
 |**2025-04-20**|**AlphaZero-Edu: Making AlphaZero Accessible to Everyone**|Binjie Guo et.al.|[2504.14636](http://arxiv.org/abs/2504.14636)|**[link](https://github.com/starlight1212/alphazero_edu)**|
 |**2025-04-10**|**Search-contempt: a hybrid MCTS algorithm for training AlphaZero-like engines with better computational efficiency**|Ameya Joshi et.al.|[2504.07757](http://arxiv.org/abs/2504.07757)|null|
 |**2025-04-09**|**AssistanceZero: Scalably Solving Assistance Games**|Cassidy Laidlaw et.al.|[2504.07091](http://arxiv.org/abs/2504.07091)|**[link](https://github.com/cassidylaidlaw/minecraft-building-assistance-game)**|
@@ -59,12 +60,13 @@
 |**2024-11-29**|**AlphaViT: A Flexible Game-Playing AI for Multiple Games and Variable Board Sizes**|Kazuhisa Fujita et.al.|[2408.13871](http://arxiv.org/abs/2408.13871)|**[link](https://github.com/kazuhisafujita/alphavit)**|
 |**2024-10-02**|**ShortCircuit: AlphaZero-Driven Circuit Design**|Dimitrios Tsaras et.al.|[2408.09858](http://arxiv.org/abs/2408.09858)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
 
 ## Game
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**Frog Soup: Zero-Shot, In-Context, and Sample-Efficient Frogger Agents**|Xiang Li et.al.|[2505.03947](http://arxiv.org/abs/2505.03947)|**[link](https://github.com/alienkevin/frogger)**|
 |**2025-05-06**|**Chess variation entropy and engine relevance for humans**|Marc Barthelemy et.al.|[2505.03251](http://arxiv.org/abs/2505.03251)|null|
 |**2025-05-01**|**Policies of Multiple Skill Levels for Better Strength Estimation in Games**|Kyota Kuboki et.al.|[2505.00279](http://arxiv.org/abs/2505.00279)|null|
 |**2025-04-30**|**Leveraging Systems and Control Theory for Social Robotics: A Model-Based Behavioral Control Approach to Human-Robot Interaction**|Maria Morão Patrício et.al.|[2504.21548](http://arxiv.org/abs/2504.21548)|null|
@@ -106,7 +108,7 @@
 |**2025-03-05**|**Mixture of Experts Made Intrinsically Interpretable**|Xingyi Yang et.al.|[2503.07639](http://arxiv.org/abs/2503.07639)|null|
 |**2025-03-06**|**Learning Transformer-based World Models with Contrastive Predictive Coding**|Maxime Burchi et.al.|[2503.04416](http://arxiv.org/abs/2503.04416)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
 
 ## Doudizhu
 
@@ -123,7 +125,7 @@
 |**2021-06-11**|**DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning**|Daochen Zha et.al.|[2106.06135](http://arxiv.org/abs/2106.06135)|**[link](https://github.com/kwai/DouZero)**|
 |**2012-01-18**|**Electric dipole polarizability and the neutron skin**|J. Piekarewicz et.al.|[1201.3807](http://arxiv.org/abs/1201.3807)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
 
 ## Reward Shaping
 
@@ -132,7 +134,7 @@
 |**2025-01-18**|**Stability Enhancement in Reinforcement Learning via Adaptive Control Lyapunov Function**|Donghe Chen et.al.|[2504.19473](http://arxiv.org/abs/2504.19473)|null|
 |**2025-04-22**|**Learning Explainable Dense Reward Shapes via Bayesian Optimization**|Ryan Koo et.al.|[2504.16272](http://arxiv.org/abs/2504.16272)|null|
 |**2025-04-22**|**Crossing the Human-Robot Embodiment Gap with Sim-to-Real RL using One Human Demonstration**|Tyler Ga Wei Lum et.al.|[2504.12609](http://arxiv.org/abs/2504.12609)|null|
-|**2025-04-16**|**Control of Rayleigh-Bénard Convection: Effectiveness of Reinforcement Learning in the Turbulent Regime**|Thorben Markmann et.al.|[2504.12000](http://arxiv.org/abs/2504.12000)|null|
+|**2025-04-16**|**Control of Rayleigh-Bénard Convection: Effectiveness of Reinforcement Learning in the Turbulent Regime**|Thorben Markmann et.al.|[2504.12000](http://arxiv.org/abs/2504.12000)|**[link](https://github.com/HammerLabML/RBC-Control-SARL)**|
 |**2025-04-14**|**Achieving Optimal Tissue Repair Through MARL with Reward Shaping and Curriculum Learning**|Muhammad Al-Zafar Khan et.al.|[2504.10677](http://arxiv.org/abs/2504.10677)|null|
 |**2025-04-14**|**Reasoning without Regret**|Tarun Chitra et.al.|[2504.09777](http://arxiv.org/abs/2504.09777)|null|
 |**2025-03-26**|**Zero-Shot LLMs in Human-in-the-Loop RL: Replacing Human Feedback for Reward Shaping**|Mohammad Saif Nazir et.al.|[2503.22723](http://arxiv.org/abs/2503.22723)|**[link](https://github.com/RizanSM/zero_shot_llms_in_HIL_RL)**|
@@ -170,7 +172,7 @@
 |**2025-01-13**|**Online inductive learning from answer sets for efficient reinforcement learning exploration**|Celeste Veronese et.al.|[2501.07445](http://arxiv.org/abs/2501.07445)|null|
 |**2025-02-20**|**AlphaPO -- Reward shape matters for LLM alignment**|Aman Gupta et.al.|[2501.03884](http://arxiv.org/abs/2501.03884)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
 
 ## Potential Funtions
 
@@ -178,7 +180,7 @@
 |---|---|---|---|---|
 |**2002-12-19**|**DNA Torsional Solitons in Presence of localized Inhomogeneities**|Luis Morales Molina et.al.|[nlin/0112040](http://arxiv.org/abs/nlin/0112040)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
 
 ## Potential Funtion
 
@@ -186,7 +188,7 @@
 |---|---|---|---|---|
 |**2002-12-19**|**DNA Torsional Solitons in Presence of localized Inhomogeneities**|Luis Morales Molina et.al.|[nlin/0112040](http://arxiv.org/abs/nlin/0112040)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
 
 ## State representation learning
 
@@ -233,7 +235,7 @@
 |**2020-02-27**|**Acceleration of Actor-Critic Deep Reinforcement Learning for Visual Grasping in Clutter by State Representation Learning Based on Disentanglement of a Raw Input Image**|Taewon Kim et.al.|[2002.11903](http://arxiv.org/abs/2002.11903)|null|
 |**2021-06-04**|**Domain-Adversarial and Conditional State Space Model for Imitation Learning**|Ryo Okumura et.al.|[2001.11628](http://arxiv.org/abs/2001.11628)|null|
 
-<p align=right>(<a href=#updated-on-20250507>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250511>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
