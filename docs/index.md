@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.01
+## Updated on 2025.06.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## MuZero
@@ -135,7 +135,7 @@ layout: default
 |**2025-05-26**|**Fine-grained List-wise Alignment for Generative Medication Recommendation**|Chenxiao Fan et.al.|[2505.20218](http://arxiv.org/abs/2505.20218)|**[link](https://github.com/cxfann/flame)**|
 |**2025-05-25**|**Step-level Reward for Free in RL-based T2I Diffusion Model Fine-tuning**|Xinyao Liao et.al.|[2505.19196](http://arxiv.org/abs/2505.19196)|**[link](https://github.com/lil-shake/coca)**|
 |**2025-05-25**|**Designing Pin-pression Gripper and Learning its Dexterous Grasping with Online In-hand Adjustment**|Hewen Xiao et.al.|[2505.18994](http://arxiv.org/abs/2505.18994)|**[link](https://github.com/siggraph-pin-pression-gripper/pin-pression-gripper-video)**|
-|**2025-05-23**|**Reinforcement Learning for Ballbot Navigation in Uneven Terrain**|Achkan Salehi et.al.|[2505.18417](http://arxiv.org/abs/2505.18417)|null|
+|**2025-05-23**|**Reinforcement Learning for Ballbot Navigation in Uneven Terrain**|Achkan Salehi et.al.|[2505.18417](http://arxiv.org/abs/2505.18417)|**[link](https://github.com/salehiac/openballbot-rl)**|
 |**2025-05-23**|**Thinking Fast and Right: Balancing Accuracy and Reasoning Length with Adaptive Rewards**|Jinyan Su et.al.|[2505.18298](http://arxiv.org/abs/2505.18298)|null|
 |**2025-05-22**|**Reward-Aware Proto-Representations in Reinforcement Learning**|Hon Tik Tse et.al.|[2505.16217](http://arxiv.org/abs/2505.16217)|null|
 |**2025-05-21**|**Aligning Dialogue Agents with Global Feedback via Large Language Model Reward Decomposition**|Dong Won Lee et.al.|[2505.15922](http://arxiv.org/abs/2505.15922)|null|
