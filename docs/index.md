@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.02
+## Updated on 2025.06.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## MuZero
@@ -30,7 +30,7 @@ layout: default
 |**2025-02-14**|**Reinforcement Learning in Strategy-Based and Atari Games: A Review of Google DeepMinds Innovations**|Abdelrhman Shaheen et.al.|[2502.10303](http://arxiv.org/abs/2502.10303)|null|
 |**2025-02-10**|**On the Emergence of Thinking in LLMs I: Searching for the Right Intuition**|Guanghao Ye et.al.|[2502.06773](http://arxiv.org/abs/2502.06773)|**[link](https://github.com/GuanghaoYe/Emergence-of-Thinking)**|
 |**2025-02-08**|**Efficient Reinforcement Learning Through Adaptively Pretrained Visual Encoder**|Yuhan Zhang et.al.|[2502.05555](http://arxiv.org/abs/2502.05555)|null|
-|**2025-02-03**|**Improving Transformer World Models for Data-Efficient RL**|Antoine Dedieu et.al.|[2502.01591](http://arxiv.org/abs/2502.01591)|null|
+|**2025-06-02**|**Improving Transformer World Models for Data-Efficient RL**|Antoine Dedieu et.al.|[2502.01591](http://arxiv.org/abs/2502.01591)|null|
 |**2025-01-24**|**Dream to Fly: Model-Based Reinforcement Learning for Vision-Based Drone Flight**|Angel Romero et.al.|[2501.14377](http://arxiv.org/abs/2501.14377)|null|
 |**2024-12-23**|**Towards Intrinsic Self-Correction Enhancement in Monte Carlo Tree Search Boosted Reasoning via Iterative Preference Learning**|Huchen Jiang et.al.|[2412.17397](http://arxiv.org/abs/2412.17397)|null|
 |**2025-03-08**|**What Are Step-Level Reward Models Rewarding? Counterintuitive Findings from MCTS-Boosted Mathematical Reasoning**|Yiran Ma et.al.|[2412.15904](http://arxiv.org/abs/2412.15904)|null|
@@ -56,6 +56,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**TextAtari: 100K Frames Game Playing with Language Agents**|Wenhao Li et.al.|[2506.04098](http://arxiv.org/abs/2506.04098)|**[link](https://github.com/Lww007/Text-Atari-Agents)**|
+|**2025-06-03**|**Improving Performance of Spike-based Deep Q-Learning using Ternary Neurons**|Aref Ghoreishee et.al.|[2506.03392](http://arxiv.org/abs/2506.03392)|null|
+|**2025-06-03**|**Collective Intelligence Outperforms Individual Talent: A Case Study in League of Legends**|Angelo Josey Caldeira et.al.|[2506.02706](http://arxiv.org/abs/2506.02706)|null|
+|**2025-06-03**|**Simple, Good, Fast: Self-Supervised World Models Free of Baggage**|Jan Robine et.al.|[2506.02612](http://arxiv.org/abs/2506.02612)|null|
+|**2025-06-02**|**General search techniques without common knowledge for imperfect-information games, and application to superhuman Fog of War chess**|Brian Hu Zhang et.al.|[2506.01242](http://arxiv.org/abs/2506.01242)|null|
+|**2025-05-30**|**Paired comparison models with strength-dependent ties and order effects**|Mark E. Glickman et.al.|[2505.24783](http://arxiv.org/abs/2505.24783)|null|
+|**2025-05-30**|**CHESS Compact Wiggler construction report**|Alexander Temnykh et.al.|[2505.24585](http://arxiv.org/abs/2505.24585)|null|
+|**2025-05-30**|**Reasoning Can Hurt the Inductive Abilities of Large Language Models**|Haibo Jin et.al.|[2505.24225](http://arxiv.org/abs/2505.24225)|null|
+|**2025-05-29**|**Vision Language Models are Biased**|An Vo et.al.|[2505.23941](http://arxiv.org/abs/2505.23941)|**[link](https://github.com/anvo25/vlms-are-biased)**|
 |**2025-05-26**|**Understanding the learned look-ahead behavior of chess neural networks**|Diogo Cruz et.al.|[2505.21552](http://arxiv.org/abs/2505.21552)|null|
 |**2025-05-29**|**Surrogate-Assisted Evolutionary Reinforcement Learning Based on Autoencoder and Hyperbolic Neural Network**|Bingdong Li et.al.|[2505.19423](http://arxiv.org/abs/2505.19423)|null|
 |**2025-05-23**|**PPO-BR: Dual-Signal Entropy-Reward Adaptation for Trust Region Policy Optimization**|Ben Rahman et.al.|[2505.17714](http://arxiv.org/abs/2505.17714)|null|
@@ -67,7 +76,7 @@ layout: default
 |**2025-05-22**|**PoE-World: Compositional World Modeling with Products of Programmatic Experts**|Wasu Top Piriyakulkij et.al.|[2505.10819](http://arxiv.org/abs/2505.10819)|**[link](https://github.com/topwasu/poe-world)**|
 |**2025-05-14**|**Beyond the Known: Decision Making with Counterfactual Reasoning Decision Transformer**|Minh Hoang Nguyen et.al.|[2505.09114](http://arxiv.org/abs/2505.09114)|null|
 |**2025-05-13**|**ORACLE-Grasp: Zero-Shot Task-Oriented Robotic Grasping using Large Multimodal Models**|Avihai Giuili et.al.|[2505.08417](http://arxiv.org/abs/2505.08417)|null|
-|**2025-05-12**|**Decoding Chess Puzzle Play and Standard Cognitive Tasks for BCI: A Low-Cost EEG Study**|Matthew Russell et.al.|[2505.07592](http://arxiv.org/abs/2505.07592)|null|
+|**2025-06-03**|**Neural Signatures Within and Between Chess Puzzle Solving and Standard Cognitive Tasks for Brain-Computer Interfaces: A Low-Cost Electroencephalography Study**|Matthew Russell et.al.|[2505.07592](http://arxiv.org/abs/2505.07592)|null|
 |**2025-05-10**|**Enfoque Odychess: Un método dialéctico, constructivista y adaptativo para la enseñanza del ajedrez con inteligencias artificiales generativas**|Ernesto Giralt Hernandez et.al.|[2505.06652](http://arxiv.org/abs/2505.06652)|null|
 |**2025-05-06**|**Frog Soup: Zero-Shot, In-Context, and Sample-Efficient Frogger Agents**|Xiang Li et.al.|[2505.03947](http://arxiv.org/abs/2505.03947)|**[link](https://github.com/alienkevin/frogger)**|
 |**2025-05-06**|**Chess variation entropy and engine relevance for humans**|Marc Barthelemy et.al.|[2505.03251](http://arxiv.org/abs/2505.03251)|null|
@@ -130,6 +139,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**CORE: Constraint-Aware One-Step Reinforcement Learning for Simulation-Guided Neural Network Accelerator Design**|Yifeng Xiao et.al.|[2506.03474](http://arxiv.org/abs/2506.03474)|null|
+|**2025-06-03**|**Think Twice, Act Once: A Co-Evolution Framework of LLM and RL for Large-Scale Decision Making**|Xu Wan et.al.|[2506.02522](http://arxiv.org/abs/2506.02522)|null|
+|**2025-05-30**|**RoboMoRe: LLM-based Robot Co-design via Joint Optimization of Morphology and Reward**|Jiawei Fang et.al.|[2506.00276](http://arxiv.org/abs/2506.00276)|null|
 |**2025-05-29**|**Grower-in-the-Loop Interactive Reinforcement Learning for Greenhouse Climate Control**|Maxiu Xiao et.al.|[2505.23355](http://arxiv.org/abs/2505.23355)|null|
 |**2025-05-22**|**Arctic-Text2SQL-R1: Simple Rewards, Strong Reasoning in Text-to-SQL**|Zhewei Yao et.al.|[2505.20315](http://arxiv.org/abs/2505.20315)|null|
 |**2025-05-26**|**Fine-grained List-wise Alignment for Generative Medication Recommendation**|Chenxiao Fan et.al.|[2505.20218](http://arxiv.org/abs/2505.20218)|**[link](https://github.com/cxfann/flame)**|
@@ -166,7 +178,7 @@ layout: default
 |**2025-04-22**|**DRESS: Diffusion Reasoning-based Reward Shaping Scheme For Intelligent Networks**|Feiran You et.al.|[2503.07433](http://arxiv.org/abs/2503.07433)|**[link](https://github.com/nice-hku/dress)**|
 |**2025-03-08**|**Towards Improving Reward Design in RL: A Reward Alignment Metric for RL Practitioners**|Calarina Muslimani et.al.|[2503.05996](http://arxiv.org/abs/2503.05996)|null|
 |**2025-03-07**|**Reward-Centered ReST-MCTS: A Robust Decision-Making Framework for Robotic Manipulation in High Uncertainty Environments**|Xibai Wang et.al.|[2503.05226](http://arxiv.org/abs/2503.05226)|null|
-|**2025-03-06**|**DAST: Difficulty-Adaptive Slow-Thinking for Large Reasoning Models**|Yi Shen et.al.|[2503.04472](http://arxiv.org/abs/2503.04472)|null|
+|**2025-06-03**|**DAST: Difficulty-Adaptive Slow-Thinking for Large Reasoning Models**|Yi Shen et.al.|[2503.04472](http://arxiv.org/abs/2503.04472)|null|
 |**2025-03-02**|**An Efficient and Uncertainty-aware Reinforcement Learning Framework for Quality Assurance in Extrusion Additive Manufacturing**|Xiaohan Li et.al.|[2503.00971](http://arxiv.org/abs/2503.00971)|null|
 |**2025-03-03**|**On the Importance of Reward Design in Reinforcement Learning-based Dynamic Algorithm Configuration: A Case Study on OneMax with (1+( $λ$,$λ$ ))-GA**|Tai Nguyen et.al.|[2502.20265](http://arxiv.org/abs/2502.20265)|null|
 |**2025-03-11**|**Pokemon Red via Reinforcement Learning**|Marco Pleines et.al.|[2502.19920](http://arxiv.org/abs/2502.19920)|**[link](https://github.com/MarcoMeter/neroRL)**|
