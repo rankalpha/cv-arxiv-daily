@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.06.09
+## Updated on 2025.06.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## MuZero
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-28**|**Calibrated Value-Aware Model Learning with Stochastic Environment Models**|Claas Voelcker et.al.|[2505.22772](http://arxiv.org/abs/2505.22772)|null|
+|**2025-06-09**|**Calibrated Value-Aware Model Learning with Probabilistic Environment Models**|Claas Voelcker et.al.|[2505.22772](http://arxiv.org/abs/2505.22772)|null|
 |**2025-05-08**|**Reinforcement Learning-Aided Design of Efficient Polarization Kernels**|Yi-Ting Hong et.al.|[2505.04127](http://arxiv.org/abs/2505.04127)|**[link](https://github.com/jaco267/alphapolar)**|
 |**2025-04-20**|**AlphaZero-Edu: Making AlphaZero Accessible to Everyone**|Binjie Guo et.al.|[2504.14636](http://arxiv.org/abs/2504.14636)|**[link](https://github.com/starlight1212/alphazero_edu)**|
 |**2025-04-10**|**Search-contempt: a hybrid MCTS algorithm for training AlphaZero-like engines with better computational efficiency**|Ameya Joshi et.al.|[2504.07757](http://arxiv.org/abs/2504.07757)|null|
@@ -56,7 +56,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-04**|**TextAtari: 100K Frames Game Playing with Language Agents**|Wenhao Li et.al.|[2506.04098](http://arxiv.org/abs/2506.04098)|**[link](https://github.com/Lww007/Text-Atari-Agents)**|
+|**2025-06-05**|**Learning to Plan via Supervised Contrastive Learning and Strategic Interpolation: A Chess Case Study**|Andrew Hamara et.al.|[2506.04892](http://arxiv.org/abs/2506.04892)|null|
+|**2025-06-10**|**TextAtari: 100K Frames Game Playing with Language Agents**|Wenhao Li et.al.|[2506.04098](http://arxiv.org/abs/2506.04098)|**[link](https://github.com/Lww007/Text-Atari-Agents)**|
 |**2025-06-03**|**Improving Performance of Spike-based Deep Q-Learning using Ternary Neurons**|Aref Ghoreishee et.al.|[2506.03392](http://arxiv.org/abs/2506.03392)|null|
 |**2025-06-03**|**Collective Intelligence Outperforms Individual Talent: A Case Study in League of Legends**|Angelo Josey Caldeira et.al.|[2506.02706](http://arxiv.org/abs/2506.02706)|null|
 |**2025-06-03**|**Simple, Good, Fast: Self-Supervised World Models Free of Baggage**|Jan Robine et.al.|[2506.02612](http://arxiv.org/abs/2506.02612)|null|
@@ -139,6 +140,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-09**|**Cross-lingual Collapse: How Language-Centric Foundation Models Shape Reasoning in Large Language Models**|Cheonbok Park et.al.|[2506.05850](http://arxiv.org/abs/2506.05850)|null|
+|**2025-06-05**|**Learning to Recover: Dynamic Reward Shaping with Wheel-Leg Coordination for Fallen Robots**|Boyuan Deng et.al.|[2506.05516](http://arxiv.org/abs/2506.05516)|null|
 |**2025-06-04**|**CORE: Constraint-Aware One-Step Reinforcement Learning for Simulation-Guided Neural Network Accelerator Design**|Yifeng Xiao et.al.|[2506.03474](http://arxiv.org/abs/2506.03474)|null|
 |**2025-06-03**|**Think Twice, Act Once: A Co-Evolution Framework of LLM and RL for Large-Scale Decision Making**|Xu Wan et.al.|[2506.02522](http://arxiv.org/abs/2506.02522)|null|
 |**2025-05-30**|**RoboMoRe: LLM-based Robot Co-design via Joint Optimization of Morphology and Reward**|Jiawei Fang et.al.|[2506.00276](http://arxiv.org/abs/2506.00276)|null|
