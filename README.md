@@ -1,4 +1,4 @@
-## Updated on 2025.06.16
+## Updated on 2025.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -61,18 +61,21 @@
 |**2024-11-29**|**AlphaViT: A Flexible Game-Playing AI for Multiple Games and Variable Board Sizes**|Kazuhisa Fujita et.al.|[2408.13871](http://arxiv.org/abs/2408.13871)|**[link](https://github.com/kazuhisafujita/alphavit)**|
 |**2024-10-02**|**ShortCircuit: AlphaZero-Driven Circuit Design**|Dimitrios Tsaras et.al.|[2408.09858](http://arxiv.org/abs/2408.09858)|null|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
 
 ## Game
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**Mxplainer: Explain and Learn Insights by Imitating Mahjong Agents**|Lingfeng Li et.al.|[2506.14246](http://arxiv.org/abs/2506.14246)|null|
+|**2025-06-16**|**Meta-learning how to Share Credit among Macro-Actions**|Ionel-Alexandru Hosu et.al.|[2506.13690](http://arxiv.org/abs/2506.13690)|null|
+|**2025-06-12**|**Rating competitors in games with strength-dependent tie probabilities**|Mark E. Glickman et.al.|[2506.11354](http://arxiv.org/abs/2506.11354)|null|
 |**2025-06-10**|**Uncertainty Prioritized Experience Replay**|Rodrigo Carrasco-Davis et.al.|[2506.09270](http://arxiv.org/abs/2506.09270)|null|
 |**2025-06-05**|**Learning to Plan via Supervised Contrastive Learning and Strategic Interpolation: A Chess Case Study**|Andrew Hamara et.al.|[2506.04892](http://arxiv.org/abs/2506.04892)|null|
 |**2025-06-10**|**TextAtari: 100K Frames Game Playing with Language Agents**|Wenhao Li et.al.|[2506.04098](http://arxiv.org/abs/2506.04098)|**[link](https://github.com/Lww007/Text-Atari-Agents)**|
 |**2025-06-03**|**Improving Performance of Spike-based Deep Q-Learning using Ternary Neurons**|Aref Ghoreishee et.al.|[2506.03392](http://arxiv.org/abs/2506.03392)|null|
 |**2025-06-03**|**Collective Intelligence Outperforms Individual Talent: A Case Study in League of Legends**|Angelo Josey Caldeira et.al.|[2506.02706](http://arxiv.org/abs/2506.02706)|null|
-|**2025-06-03**|**Simple, Good, Fast: Self-Supervised World Models Free of Baggage**|Jan Robine et.al.|[2506.02612](http://arxiv.org/abs/2506.02612)|null|
+|**2025-06-03**|**Simple, Good, Fast: Self-Supervised World Models Free of Baggage**|Jan Robine et.al.|[2506.02612](http://arxiv.org/abs/2506.02612)|**[link](https://github.com/jrobine/sgf)**|
 |**2025-06-02**|**General search techniques without common knowledge for imperfect-information games, and application to superhuman Fog of War chess**|Brian Hu Zhang et.al.|[2506.01242](http://arxiv.org/abs/2506.01242)|null|
 |**2025-05-30**|**Paired comparison models with strength-dependent ties and order effects**|Mark E. Glickman et.al.|[2505.24783](http://arxiv.org/abs/2505.24783)|null|
 |**2025-05-30**|**CHESS Compact Wiggler construction report**|Alexander Temnykh et.al.|[2505.24585](http://arxiv.org/abs/2505.24585)|null|
@@ -133,7 +136,7 @@
 |**2025-03-05**|**Mixture of Experts Made Intrinsically Interpretable**|Xingyi Yang et.al.|[2503.07639](http://arxiv.org/abs/2503.07639)|null|
 |**2025-03-06**|**Learning Transformer-based World Models with Contrastive Predictive Coding**|Maxime Burchi et.al.|[2503.04416](http://arxiv.org/abs/2503.04416)|null|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
 
 ## Doudizhu
 
@@ -150,13 +153,14 @@
 |**2021-06-11**|**DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning**|Daochen Zha et.al.|[2106.06135](http://arxiv.org/abs/2106.06135)|**[link](https://github.com/kwai/DouZero)**|
 |**2012-01-18**|**Electric dipole polarizability and the neutron skin**|J. Piekarewicz et.al.|[1201.3807](http://arxiv.org/abs/1201.3807)|null|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
 
 ## Reward Shaping
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-12**|**Viability of Future Actions: Robust Safety in Reinforcement Learning via Entropy Regularization**|Pierre-François Massiani et.al.|[2506.10871](http://arxiv.org/abs/2506.10871)|null|
+|**2025-06-14**|**Similarity as Reward Alignment: Robust and Versatile Preference-based Reinforcement Learning**|Sara Rajaram et.al.|[2506.12529](http://arxiv.org/abs/2506.12529)|null|
+|**2025-06-12**|**Viability of Future Actions: Robust Safety in Reinforcement Learning via Entropy Regularization**|Pierre-François Massiani et.al.|[2506.10871](http://arxiv.org/abs/2506.10871)|**[link](https://github.com/data-science-in-mechanical-engineering/entropy_robustness)**|
 |**2025-06-11**|**Patient-Specific Deep Reinforcement Learning for Automatic Replanning in Head-and-Neck Cancer Proton Therapy**|Malvern Madondo et.al.|[2506.10073](http://arxiv.org/abs/2506.10073)|null|
 |**2025-06-11**|**"What are my options?": Explaining RL Agents with Diverse Near-Optimal Alternatives (Extended)**|Noel Brindise et.al.|[2506.09901](http://arxiv.org/abs/2506.09901)|null|
 |**2025-06-10**|**Learning The Minimum Action Distance**|Lorenzo Steccanella et.al.|[2506.09276](http://arxiv.org/abs/2506.09276)|null|
@@ -172,7 +176,7 @@
 |**2025-05-25**|**Step-level Reward for Free in RL-based T2I Diffusion Model Fine-tuning**|Xinyao Liao et.al.|[2505.19196](http://arxiv.org/abs/2505.19196)|**[link](https://github.com/lil-shake/coca)**|
 |**2025-05-25**|**Designing Pin-pression Gripper and Learning its Dexterous Grasping with Online In-hand Adjustment**|Hewen Xiao et.al.|[2505.18994](http://arxiv.org/abs/2505.18994)|**[link](https://github.com/siggraph-pin-pression-gripper/pin-pression-gripper-video)**|
 |**2025-05-23**|**Reinforcement Learning for Ballbot Navigation in Uneven Terrain**|Achkan Salehi et.al.|[2505.18417](http://arxiv.org/abs/2505.18417)|**[link](https://github.com/salehiac/openballbot-rl)**|
-|**2025-05-23**|**Thinking Fast and Right: Balancing Accuracy and Reasoning Length with Adaptive Rewards**|Jinyan Su et.al.|[2505.18298](http://arxiv.org/abs/2505.18298)|null|
+|**2025-05-23**|**Thinking Fast and Right: Balancing Accuracy and Reasoning Length with Adaptive Rewards**|Jinyan Su et.al.|[2505.18298](http://arxiv.org/abs/2505.18298)|**[link](https://github.com/jinyansu1/a-dlp)**|
 |**2025-05-22**|**Reward-Aware Proto-Representations in Reinforcement Learning**|Hon Tik Tse et.al.|[2505.16217](http://arxiv.org/abs/2505.16217)|null|
 |**2025-05-21**|**Aligning Dialogue Agents with Global Feedback via Large Language Model Reward Decomposition**|Dong Won Lee et.al.|[2505.15922](http://arxiv.org/abs/2505.15922)|null|
 |**2025-05-21**|**ConvSearch-R1: Enhancing Query Reformulation for Conversational Search with Reasoning via Reinforcement Learning**|Changtai Zhu et.al.|[2505.15776](http://arxiv.org/abs/2505.15776)|**[link](https://github.com/BeastyZ/ConvSearch-R1)**|
@@ -193,6 +197,7 @@
 |**2025-04-16**|**Control of Rayleigh-Bénard Convection: Effectiveness of Reinforcement Learning in the Turbulent Regime**|Thorben Markmann et.al.|[2504.12000](http://arxiv.org/abs/2504.12000)|**[link](https://github.com/HammerLabML/RBC-Control-SARL)**|
 |**2025-04-14**|**Achieving Optimal Tissue Repair Through MARL with Reward Shaping and Curriculum Learning**|Muhammad Al-Zafar Khan et.al.|[2504.10677](http://arxiv.org/abs/2504.10677)|null|
 |**2025-04-14**|**Reasoning without Regret**|Tarun Chitra et.al.|[2504.09777](http://arxiv.org/abs/2504.09777)|null|
+|**2025-06-13**|**HypRL: Reinforcement Learning of Control Policies for Hyperproperties**|Tzu-Han Hsu et.al.|[2504.04675](http://arxiv.org/abs/2504.04675)|null|
 |**2025-03-26**|**Zero-Shot LLMs in Human-in-the-Loop RL: Replacing Human Feedback for Reward Shaping**|Mohammad Saif Nazir et.al.|[2503.22723](http://arxiv.org/abs/2503.22723)|**[link](https://github.com/RizanSM/zero_shot_llms_in_HIL_RL)**|
 |**2025-03-27**|**Reward Design for Reinforcement Learning Agents**|Rati Devidze et.al.|[2503.21949](http://arxiv.org/abs/2503.21949)|**[link](https://github.com/adishs/neurips2021_explicable-reward-design_code)**|
 |**2025-03-23**|**ViVa: Video-Trained Value Functions for Guiding Online RL from Diverse Data**|Nitish Dashora et.al.|[2503.18210](http://arxiv.org/abs/2503.18210)|null|
@@ -228,7 +233,7 @@
 |**2025-01-13**|**Online inductive learning from answer sets for efficient reinforcement learning exploration**|Celeste Veronese et.al.|[2501.07445](http://arxiv.org/abs/2501.07445)|null|
 |**2025-02-20**|**AlphaPO -- Reward shape matters for LLM alignment**|Aman Gupta et.al.|[2501.03884](http://arxiv.org/abs/2501.03884)|null|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
 
 ## Potential Funtions
 
@@ -236,7 +241,7 @@
 |---|---|---|---|---|
 |**2002-12-19**|**DNA Torsional Solitons in Presence of localized Inhomogeneities**|Luis Morales Molina et.al.|[nlin/0112040](http://arxiv.org/abs/nlin/0112040)|null|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
 
 ## Potential Funtion
 
@@ -244,7 +249,7 @@
 |---|---|---|---|---|
 |**2002-12-19**|**DNA Torsional Solitons in Presence of localized Inhomogeneities**|Luis Morales Molina et.al.|[nlin/0112040](http://arxiv.org/abs/nlin/0112040)|null|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
 
 ## State representation learning
 
@@ -292,7 +297,7 @@
 |**2020-02-27**|**Acceleration of Actor-Critic Deep Reinforcement Learning for Visual Grasping in Clutter by State Representation Learning Based on Disentanglement of a Raw Input Image**|Taewon Kim et.al.|[2002.11903](http://arxiv.org/abs/2002.11903)|null|
 |**2021-06-04**|**Domain-Adversarial and Conditional State Space Model for Imitation Learning**|Ryo Okumura et.al.|[2001.11628](http://arxiv.org/abs/2001.11628)|null|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250621>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

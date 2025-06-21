@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.16
+## Updated on 2025.06.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## MuZero
@@ -56,12 +56,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-17**|**Mxplainer: Explain and Learn Insights by Imitating Mahjong Agents**|Lingfeng Li et.al.|[2506.14246](http://arxiv.org/abs/2506.14246)|null|
+|**2025-06-16**|**Meta-learning how to Share Credit among Macro-Actions**|Ionel-Alexandru Hosu et.al.|[2506.13690](http://arxiv.org/abs/2506.13690)|null|
+|**2025-06-12**|**Rating competitors in games with strength-dependent tie probabilities**|Mark E. Glickman et.al.|[2506.11354](http://arxiv.org/abs/2506.11354)|null|
 |**2025-06-10**|**Uncertainty Prioritized Experience Replay**|Rodrigo Carrasco-Davis et.al.|[2506.09270](http://arxiv.org/abs/2506.09270)|null|
 |**2025-06-05**|**Learning to Plan via Supervised Contrastive Learning and Strategic Interpolation: A Chess Case Study**|Andrew Hamara et.al.|[2506.04892](http://arxiv.org/abs/2506.04892)|null|
 |**2025-06-10**|**TextAtari: 100K Frames Game Playing with Language Agents**|Wenhao Li et.al.|[2506.04098](http://arxiv.org/abs/2506.04098)|**[link](https://github.com/Lww007/Text-Atari-Agents)**|
 |**2025-06-03**|**Improving Performance of Spike-based Deep Q-Learning using Ternary Neurons**|Aref Ghoreishee et.al.|[2506.03392](http://arxiv.org/abs/2506.03392)|null|
 |**2025-06-03**|**Collective Intelligence Outperforms Individual Talent: A Case Study in League of Legends**|Angelo Josey Caldeira et.al.|[2506.02706](http://arxiv.org/abs/2506.02706)|null|
-|**2025-06-03**|**Simple, Good, Fast: Self-Supervised World Models Free of Baggage**|Jan Robine et.al.|[2506.02612](http://arxiv.org/abs/2506.02612)|null|
+|**2025-06-03**|**Simple, Good, Fast: Self-Supervised World Models Free of Baggage**|Jan Robine et.al.|[2506.02612](http://arxiv.org/abs/2506.02612)|**[link](https://github.com/jrobine/sgf)**|
 |**2025-06-02**|**General search techniques without common knowledge for imperfect-information games, and application to superhuman Fog of War chess**|Brian Hu Zhang et.al.|[2506.01242](http://arxiv.org/abs/2506.01242)|null|
 |**2025-05-30**|**Paired comparison models with strength-dependent ties and order effects**|Mark E. Glickman et.al.|[2505.24783](http://arxiv.org/abs/2505.24783)|null|
 |**2025-05-30**|**CHESS Compact Wiggler construction report**|Alexander Temnykh et.al.|[2505.24585](http://arxiv.org/abs/2505.24585)|null|
@@ -141,7 +144,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-12**|**Viability of Future Actions: Robust Safety in Reinforcement Learning via Entropy Regularization**|Pierre-François Massiani et.al.|[2506.10871](http://arxiv.org/abs/2506.10871)|null|
+|**2025-06-14**|**Similarity as Reward Alignment: Robust and Versatile Preference-based Reinforcement Learning**|Sara Rajaram et.al.|[2506.12529](http://arxiv.org/abs/2506.12529)|null|
+|**2025-06-12**|**Viability of Future Actions: Robust Safety in Reinforcement Learning via Entropy Regularization**|Pierre-François Massiani et.al.|[2506.10871](http://arxiv.org/abs/2506.10871)|**[link](https://github.com/data-science-in-mechanical-engineering/entropy_robustness)**|
 |**2025-06-11**|**Patient-Specific Deep Reinforcement Learning for Automatic Replanning in Head-and-Neck Cancer Proton Therapy**|Malvern Madondo et.al.|[2506.10073](http://arxiv.org/abs/2506.10073)|null|
 |**2025-06-11**|**"What are my options?": Explaining RL Agents with Diverse Near-Optimal Alternatives (Extended)**|Noel Brindise et.al.|[2506.09901](http://arxiv.org/abs/2506.09901)|null|
 |**2025-06-10**|**Learning The Minimum Action Distance**|Lorenzo Steccanella et.al.|[2506.09276](http://arxiv.org/abs/2506.09276)|null|
@@ -157,7 +161,7 @@ layout: default
 |**2025-05-25**|**Step-level Reward for Free in RL-based T2I Diffusion Model Fine-tuning**|Xinyao Liao et.al.|[2505.19196](http://arxiv.org/abs/2505.19196)|**[link](https://github.com/lil-shake/coca)**|
 |**2025-05-25**|**Designing Pin-pression Gripper and Learning its Dexterous Grasping with Online In-hand Adjustment**|Hewen Xiao et.al.|[2505.18994](http://arxiv.org/abs/2505.18994)|**[link](https://github.com/siggraph-pin-pression-gripper/pin-pression-gripper-video)**|
 |**2025-05-23**|**Reinforcement Learning for Ballbot Navigation in Uneven Terrain**|Achkan Salehi et.al.|[2505.18417](http://arxiv.org/abs/2505.18417)|**[link](https://github.com/salehiac/openballbot-rl)**|
-|**2025-05-23**|**Thinking Fast and Right: Balancing Accuracy and Reasoning Length with Adaptive Rewards**|Jinyan Su et.al.|[2505.18298](http://arxiv.org/abs/2505.18298)|null|
+|**2025-05-23**|**Thinking Fast and Right: Balancing Accuracy and Reasoning Length with Adaptive Rewards**|Jinyan Su et.al.|[2505.18298](http://arxiv.org/abs/2505.18298)|**[link](https://github.com/jinyansu1/a-dlp)**|
 |**2025-05-22**|**Reward-Aware Proto-Representations in Reinforcement Learning**|Hon Tik Tse et.al.|[2505.16217](http://arxiv.org/abs/2505.16217)|null|
 |**2025-05-21**|**Aligning Dialogue Agents with Global Feedback via Large Language Model Reward Decomposition**|Dong Won Lee et.al.|[2505.15922](http://arxiv.org/abs/2505.15922)|null|
 |**2025-05-21**|**ConvSearch-R1: Enhancing Query Reformulation for Conversational Search with Reasoning via Reinforcement Learning**|Changtai Zhu et.al.|[2505.15776](http://arxiv.org/abs/2505.15776)|**[link](https://github.com/BeastyZ/ConvSearch-R1)**|
@@ -178,6 +182,7 @@ layout: default
 |**2025-04-16**|**Control of Rayleigh-Bénard Convection: Effectiveness of Reinforcement Learning in the Turbulent Regime**|Thorben Markmann et.al.|[2504.12000](http://arxiv.org/abs/2504.12000)|**[link](https://github.com/HammerLabML/RBC-Control-SARL)**|
 |**2025-04-14**|**Achieving Optimal Tissue Repair Through MARL with Reward Shaping and Curriculum Learning**|Muhammad Al-Zafar Khan et.al.|[2504.10677](http://arxiv.org/abs/2504.10677)|null|
 |**2025-04-14**|**Reasoning without Regret**|Tarun Chitra et.al.|[2504.09777](http://arxiv.org/abs/2504.09777)|null|
+|**2025-06-13**|**HypRL: Reinforcement Learning of Control Policies for Hyperproperties**|Tzu-Han Hsu et.al.|[2504.04675](http://arxiv.org/abs/2504.04675)|null|
 |**2025-03-26**|**Zero-Shot LLMs in Human-in-the-Loop RL: Replacing Human Feedback for Reward Shaping**|Mohammad Saif Nazir et.al.|[2503.22723](http://arxiv.org/abs/2503.22723)|**[link](https://github.com/RizanSM/zero_shot_llms_in_HIL_RL)**|
 |**2025-03-27**|**Reward Design for Reinforcement Learning Agents**|Rati Devidze et.al.|[2503.21949](http://arxiv.org/abs/2503.21949)|**[link](https://github.com/adishs/neurips2021_explicable-reward-design_code)**|
 |**2025-03-23**|**ViVa: Video-Trained Value Functions for Guiding Online RL from Diverse Data**|Nitish Dashora et.al.|[2503.18210](http://arxiv.org/abs/2503.18210)|null|
