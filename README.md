@@ -1,4 +1,4 @@
-## Updated on 2025.07.01
+## Updated on 2025.07.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -63,17 +63,23 @@
 |**2024-11-29**|**AlphaViT: A Flexible Game-Playing AI for Multiple Games and Variable Board Sizes**|Kazuhisa Fujita et.al.|[2408.13871](http://arxiv.org/abs/2408.13871)|**[link](https://github.com/kazuhisafujita/alphavit)**|
 |**2024-10-02**|**ShortCircuit: AlphaZero-Driven Circuit Design**|Dimitrios Tsaras et.al.|[2408.09858](http://arxiv.org/abs/2408.09858)|null|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
 
 ## Game
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Can Large Language Models Develop Strategic Reasoning? Post-training Insights from Learning Chess**|Dongyoon Hwang et.al.|[2507.00726](http://arxiv.org/abs/2507.00726)|null|
+|**2025-07-01**|**The predicable dance of random walk: local limit theorems on finitely-generated abelian groups**|Evan Randles et.al.|[2507.00399](http://arxiv.org/abs/2507.00399)|null|
+|**2025-06-30**|**Double Q-learning for Value-based Deep Reinforcement Learning, Revisited**|Prabhat Nagarajan et.al.|[2507.00275](http://arxiv.org/abs/2507.00275)|null|
+|**2025-06-17**|**Adaptive Action Duration with Contextual Bandits for Deep Reinforcement Learning in Dynamic Environments**|Abhishek Verma et.al.|[2507.00030](http://arxiv.org/abs/2507.00030)|null|
+|**2025-06-30**|**VMoBA: Mixture-of-Block Attention for Video Diffusion Models**|Jianzong Wu et.al.|[2506.23858](http://arxiv.org/abs/2506.23858)|null|
 |**2025-06-26**|**rQdia: Regularizing Q-Value Distributions With Image Augmentation**|Sam Lerman et.al.|[2506.21367](http://arxiv.org/abs/2506.21367)|null|
 |**2025-06-25**|**On graph automorphisms related to Snort**|Rylo Ashmore et.al.|[2506.20669](http://arxiv.org/abs/2506.20669)|null|
 |**2025-06-25**|**Beyond-Expert Performance with Limited Demonstrations: Efficient Imitation Learning with Double Exploration**|Heyang Zhao et.al.|[2506.20307](http://arxiv.org/abs/2506.20307)|null|
 |**2025-06-24**|**A Principled Path to Fitted Distributional Evaluation**|Sungee Hong et.al.|[2506.20048](http://arxiv.org/abs/2506.20048)|null|
 |**2025-06-24**|**ADDQ: Adaptive Distributional Double Q-Learning**|Leif Döring et.al.|[2506.19478](http://arxiv.org/abs/2506.19478)|null|
+|**2025-07-03**|**Reliability-Adjusted Prioritized Experience Replay**|Leonard S. Pleiss et.al.|[2506.18482](http://arxiv.org/abs/2506.18482)|null|
 |**2025-06-20**|**TransDreamerV3: Implanting Transformer In DreamerV3**|Shruti Sadanand Dongare et.al.|[2506.17103](http://arxiv.org/abs/2506.17103)|**[link](https://github.com/xiaonazhou/transdreamerv3)**|
 |**2025-06-20**|**Elevating Styled Mahjong Agents with Learning from Demonstration**|Lingfeng Li et.al.|[2506.16995](http://arxiv.org/abs/2506.16995)|null|
 |**2025-06-18**|**Deep Reinforcement Learning Xiangqi Player with Monte Carlo Tree Search**|Berk Yilmaz et.al.|[2506.15880](http://arxiv.org/abs/2506.15880)|null|
@@ -146,7 +152,7 @@
 |**2025-03-05**|**Mixture of Experts Made Intrinsically Interpretable**|Xingyi Yang et.al.|[2503.07639](http://arxiv.org/abs/2503.07639)|null|
 |**2025-03-06**|**Learning Transformer-based World Models with Contrastive Predictive Coding**|Maxime Burchi et.al.|[2503.04416](http://arxiv.org/abs/2503.04416)|null|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
 
 ## Doudizhu
 
@@ -163,12 +169,17 @@
 |**2021-06-11**|**DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning**|Daochen Zha et.al.|[2106.06135](http://arxiv.org/abs/2106.06135)|**[link](https://github.com/kwai/DouZero)**|
 |**2012-01-18**|**Electric dipole polarizability and the neutron skin**|J. Piekarewicz et.al.|[1201.3807](http://arxiv.org/abs/1201.3807)|null|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
 
 ## Reward Shaping
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-03**|**Is Reasoning All You Need? Probing Bias in the Age of Reasoning Language Models**|Riccardo Cantini et.al.|[2507.02799](http://arxiv.org/abs/2507.02799)|null|
+|**2025-07-01**|**Jump-Start Reinforcement Learning with Self-Evolving Priors for Extreme Monopedal Locomotion**|Ziang Zheng et.al.|[2507.01243](http://arxiv.org/abs/2507.01243)|null|
+|**2025-07-01**|**Imitation Learning for Satellite Attitude Control under Unknown Perturbations**|Zhizhuo Zhang et.al.|[2507.01161](http://arxiv.org/abs/2507.01161)|null|
+|**2025-06-30**|**Self-correcting Reward Shaping via Language Models for Reinforcement Learning Agents in Games**|António Afonso et.al.|[2506.23626](http://arxiv.org/abs/2506.23626)|null|
+|**2025-06-28**|**FairMarket-RL: LLM-Guided Fairness Shaping for Multi-Agent Reinforcement Learning in Peer-to-Peer Markets**|Shrenik Jadhav et.al.|[2506.22708](http://arxiv.org/abs/2506.22708)|null|
 |**2025-06-30**|**Reward Balancing Revisited: Enhancing Offline Reinforcement Learning for Recommender Systems**|Wenzheng Shu et.al.|[2506.22112](http://arxiv.org/abs/2506.22112)|null|
 |**2025-06-26**|**Quantum Reinforcement Learning Trading Agent for Sector Rotation in the Taiwan Stock Market**|Chi-Sheng Chen et.al.|[2506.20930](http://arxiv.org/abs/2506.20930)|null|
 |**2025-06-24**|**SAGE: Strategy-Adaptive Generation Engine for Query Rewriting**|Teng Wang et.al.|[2506.19783](http://arxiv.org/abs/2506.19783)|null|
@@ -185,7 +196,7 @@
 |**2025-06-04**|**CORE: Constraint-Aware One-Step Reinforcement Learning for Simulation-Guided Neural Network Accelerator Design**|Yifeng Xiao et.al.|[2506.03474](http://arxiv.org/abs/2506.03474)|null|
 |**2025-06-03**|**Think Twice, Act Once: A Co-Evolution Framework of LLM and RL for Large-Scale Decision Making**|Xu Wan et.al.|[2506.02522](http://arxiv.org/abs/2506.02522)|null|
 |**2025-05-30**|**RoboMoRe: LLM-based Robot Co-design via Joint Optimization of Morphology and Reward**|Jiawei Fang et.al.|[2506.00276](http://arxiv.org/abs/2506.00276)|null|
-|**2025-05-29**|**Grower-in-the-Loop Interactive Reinforcement Learning for Greenhouse Climate Control**|Maxiu Xiao et.al.|[2505.23355](http://arxiv.org/abs/2505.23355)|null|
+|**2025-07-02**|**Grower-in-the-Loop Interactive Reinforcement Learning for Greenhouse Climate Control**|Maxiu Xiao et.al.|[2505.23355](http://arxiv.org/abs/2505.23355)|null|
 |**2025-05-22**|**Arctic-Text2SQL-R1: Simple Rewards, Strong Reasoning in Text-to-SQL**|Zhewei Yao et.al.|[2505.20315](http://arxiv.org/abs/2505.20315)|null|
 |**2025-05-26**|**Fine-grained List-wise Alignment for Generative Medication Recommendation**|Chenxiao Fan et.al.|[2505.20218](http://arxiv.org/abs/2505.20218)|**[link](https://github.com/cxfann/flame)**|
 |**2025-05-25**|**Step-level Reward for Free in RL-based T2I Diffusion Model Fine-tuning**|Xinyao Liao et.al.|[2505.19196](http://arxiv.org/abs/2505.19196)|**[link](https://github.com/lil-shake/coca)**|
@@ -248,7 +259,7 @@
 |**2025-01-13**|**Online inductive learning from answer sets for efficient reinforcement learning exploration**|Celeste Veronese et.al.|[2501.07445](http://arxiv.org/abs/2501.07445)|null|
 |**2025-02-20**|**AlphaPO -- Reward shape matters for LLM alignment**|Aman Gupta et.al.|[2501.03884](http://arxiv.org/abs/2501.03884)|null|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
 
 ## Potential Funtions
 
@@ -256,7 +267,7 @@
 |---|---|---|---|---|
 |**2002-12-19**|**DNA Torsional Solitons in Presence of localized Inhomogeneities**|Luis Morales Molina et.al.|[nlin/0112040](http://arxiv.org/abs/nlin/0112040)|null|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
 
 ## Potential Funtion
 
@@ -264,7 +275,7 @@
 |---|---|---|---|---|
 |**2002-12-19**|**DNA Torsional Solitons in Presence of localized Inhomogeneities**|Luis Morales Molina et.al.|[nlin/0112040](http://arxiv.org/abs/nlin/0112040)|null|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
 
 ## State representation learning
 
@@ -313,7 +324,7 @@
 |**2020-02-27**|**Acceleration of Actor-Critic Deep Reinforcement Learning for Visual Grasping in Clutter by State Representation Learning Based on Disentanglement of a Raw Input Image**|Taewon Kim et.al.|[2002.11903](http://arxiv.org/abs/2002.11903)|null|
 |**2021-06-04**|**Domain-Adversarial and Conditional State Space Model for Imitation Learning**|Ryo Okumura et.al.|[2001.11628](http://arxiv.org/abs/2001.11628)|null|
 
-<p align=right>(<a href=#updated-on-20250701>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250706>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
