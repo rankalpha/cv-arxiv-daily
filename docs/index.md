@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.07.07
+## Updated on 2025.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## MuZero
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-04**|**Dyn-O: Building Structured World Models with Object-Centric Representations**|Zizhao Wang et.al.|[2507.03298](http://arxiv.org/abs/2507.03298)|null|
 |**2025-06-26**|**M3PO: Massively Multi-Task Model-Based Policy Optimization**|Aditya Narendra et.al.|[2506.21782](http://arxiv.org/abs/2506.21782)|null|
 |**2025-06-20**|**TransDreamerV3: Implanting Transformer In DreamerV3**|Shruti Sadanand Dongare et.al.|[2506.17103](http://arxiv.org/abs/2506.17103)|**[link](https://github.com/xiaonazhou/transdreamerv3)**|
 |**2025-06-09**|**Calibrated Value-Aware Model Learning with Probabilistic Environment Models**|Claas Voelcker et.al.|[2505.22772](http://arxiv.org/abs/2505.22772)|null|
@@ -58,6 +59,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**CogniPlay: a work-in-progress Human-like model for General Game Playing**|Aloïs Rautureau et.al.|[2507.05868](http://arxiv.org/abs/2507.05868)|null|
+|**2025-07-08**|**Detecting and Mitigating Reward Hacking in Reinforcement Learning Systems: A Comprehensive Empirical Study**|Ibne Farabi Shihab et.al.|[2507.05619](http://arxiv.org/abs/2507.05619)|null|
+|**2025-07-07**|**Counting with two-level polynomials**|Tristram Bogart et.al.|[2507.05473](http://arxiv.org/abs/2507.05473)|null|
+|**2025-07-07**|**Beyond Training-time Poisoning: Component-level and Post-training Backdoors in Deep Reinforcement Learning**|Sanyam Vyas et.al.|[2507.04883](http://arxiv.org/abs/2507.04883)|null|
+|**2025-07-05**|**Tied Pools and Drawn Games**|Roderick Edwards et.al.|[2507.03894](http://arxiv.org/abs/2507.03894)|null|
+|**2025-07-02**|**Generalized Adaptive Transfer Network: Enhancing Transfer Learning in Reinforcement Learning Across Domains**|Abhishek Verma et.al.|[2507.03026](http://arxiv.org/abs/2507.03026)|null|
 |**2025-07-02**|**Can Large Language Models Develop Strategic Reasoning? Post-training Insights from Learning Chess**|Dongyoon Hwang et.al.|[2507.00726](http://arxiv.org/abs/2507.00726)|null|
 |**2025-07-01**|**The predicable dance of random walk: local limit theorems on finitely-generated abelian groups**|Evan Randles et.al.|[2507.00399](http://arxiv.org/abs/2507.00399)|null|
 |**2025-06-30**|**Double Q-learning for Value-based Deep Reinforcement Learning, Revisited**|Prabhat Nagarajan et.al.|[2507.00275](http://arxiv.org/abs/2507.00275)|null|
@@ -160,6 +167,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Artificial Generals Intelligence: Mastering Generals.io with Reinforcement Learning**|Matej Straka et.al.|[2507.06825](http://arxiv.org/abs/2507.06825)|null|
+|**2025-07-09**|**From Data-Centric to Sample-Centric: Enhancing LLM Reasoning via Progressive Optimization**|Xinjie Chen et.al.|[2507.06573](http://arxiv.org/abs/2507.06573)|null|
+|**2025-07-08**|**CogniSQL-R1-Zero: Lightweight Reinforced Reasoning for Efficient SQL Generation**|Kushal Gajjar et.al.|[2507.06013](http://arxiv.org/abs/2507.06013)|null|
 |**2025-07-03**|**Is Reasoning All You Need? Probing Bias in the Age of Reasoning Language Models**|Riccardo Cantini et.al.|[2507.02799](http://arxiv.org/abs/2507.02799)|null|
 |**2025-07-01**|**Jump-Start Reinforcement Learning with Self-Evolving Priors for Extreme Monopedal Locomotion**|Ziang Zheng et.al.|[2507.01243](http://arxiv.org/abs/2507.01243)|null|
 |**2025-07-01**|**Imitation Learning for Satellite Attitude Control under Unknown Perturbations**|Zhizhuo Zhang et.al.|[2507.01161](http://arxiv.org/abs/2507.01161)|null|
