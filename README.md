@@ -1,4 +1,4 @@
-## Updated on 2025.07.14
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -64,15 +64,18 @@
 |**2024-11-29**|**AlphaViT: A Flexible Game-Playing AI for Multiple Games and Variable Board Sizes**|Kazuhisa Fujita et.al.|[2408.13871](http://arxiv.org/abs/2408.13871)|**[link](https://github.com/kazuhisafujita/alphavit)**|
 |**2024-10-02**|**ShortCircuit: AlphaZero-Driven Circuit Design**|Dimitrios Tsaras et.al.|[2408.09858](http://arxiv.org/abs/2408.09858)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Game
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**Deep Reinforcement Learning in Applied Control: Challenges, Analysis, and Insights**|Klinsmann Agyei et.al.|[2507.08196](http://arxiv.org/abs/2507.08196)|null|
+|**2025-07-10**|**"So, Tell Me About Your Policy...": Distillation of interpretable policies from Deep Reinforcement Learning agents**|Giovanni Dispoto et.al.|[2507.07848](http://arxiv.org/abs/2507.07848)|null|
+|**2025-07-09**|**Combining Pre-Trained Models for Enhanced Feature Representation in Reinforcement Learning**|Elia Piccoli et.al.|[2507.07197](http://arxiv.org/abs/2507.07197)|null|
 |**2025-07-08**|**CogniPlay: a work-in-progress Human-like model for General Game Playing**|Aloïs Rautureau et.al.|[2507.05868](http://arxiv.org/abs/2507.05868)|null|
 |**2025-07-08**|**Detecting and Mitigating Reward Hacking in Reinforcement Learning Systems: A Comprehensive Empirical Study**|Ibne Farabi Shihab et.al.|[2507.05619](http://arxiv.org/abs/2507.05619)|null|
-|**2025-07-07**|**Counting with two-level polynomials**|Tristram Bogart et.al.|[2507.05473](http://arxiv.org/abs/2507.05473)|null|
+|**2025-07-11**|**Counting with two-level polynomials**|Tristram Bogart et.al.|[2507.05473](http://arxiv.org/abs/2507.05473)|null|
 |**2025-07-07**|**Beyond Training-time Poisoning: Component-level and Post-training Backdoors in Deep Reinforcement Learning**|Sanyam Vyas et.al.|[2507.04883](http://arxiv.org/abs/2507.04883)|null|
 |**2025-07-05**|**Tied Pools and Drawn Games**|Roderick Edwards et.al.|[2507.03894](http://arxiv.org/abs/2507.03894)|null|
 |**2025-07-02**|**Generalized Adaptive Transfer Network: Enhancing Transfer Learning in Reinforcement Learning Across Domains**|Abhishek Verma et.al.|[2507.03026](http://arxiv.org/abs/2507.03026)|null|
@@ -92,7 +95,7 @@
 |**2025-06-18**|**Deep Reinforcement Learning Xiangqi Player with Monte Carlo Tree Search**|Berk Yilmaz et.al.|[2506.15880](http://arxiv.org/abs/2506.15880)|null|
 |**2025-06-17**|**Mxplainer: Explain and Learn Insights by Imitating Mahjong Agents**|Lingfeng Li et.al.|[2506.14246](http://arxiv.org/abs/2506.14246)|**[link](https://github.com/lingfeng158/mxplainer)**|
 |**2025-06-16**|**Meta-learning how to Share Credit among Macro-Actions**|Ionel-Alexandru Hosu et.al.|[2506.13690](http://arxiv.org/abs/2506.13690)|null|
-|**2025-06-12**|**Rating competitors in games with strength-dependent tie probabilities**|Mark E. Glickman et.al.|[2506.11354](http://arxiv.org/abs/2506.11354)|null|
+|**2025-07-11**|**Rating competitors in games with strength-dependent tie probabilities**|Mark E. Glickman et.al.|[2506.11354](http://arxiv.org/abs/2506.11354)|null|
 |**2025-06-10**|**Uncertainty Prioritized Experience Replay**|Rodrigo Carrasco-Davis et.al.|[2506.09270](http://arxiv.org/abs/2506.09270)|null|
 |**2025-06-05**|**Learning to Plan via Supervised Contrastive Learning and Strategic Interpolation: A Chess Case Study**|Andrew Hamara et.al.|[2506.04892](http://arxiv.org/abs/2506.04892)|**[link](https://github.com/andrewhamara/solis)**|
 |**2025-06-10**|**TextAtari: 100K Frames Game Playing with Language Agents**|Wenhao Li et.al.|[2506.04098](http://arxiv.org/abs/2506.04098)|**[link](https://github.com/Lww007/Text-Atari-Agents)**|
@@ -159,7 +162,7 @@
 |**2025-03-05**|**Mixture of Experts Made Intrinsically Interpretable**|Xingyi Yang et.al.|[2503.07639](http://arxiv.org/abs/2503.07639)|null|
 |**2025-03-06**|**Learning Transformer-based World Models with Contrastive Predictive Coding**|Maxime Burchi et.al.|[2503.04416](http://arxiv.org/abs/2503.04416)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Doudizhu
 
@@ -176,12 +179,14 @@
 |**2021-06-11**|**DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning**|Daochen Zha et.al.|[2106.06135](http://arxiv.org/abs/2106.06135)|**[link](https://github.com/kwai/DouZero)**|
 |**2012-01-18**|**Electric dipole polarizability and the neutron skin**|J. Piekarewicz et.al.|[1201.3807](http://arxiv.org/abs/1201.3807)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Reward Shaping
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-14**|**Prompt Informed Reinforcement Learning for Visual Coverage Path Planning**|Venkat Margapuri et.al.|[2507.10284](http://arxiv.org/abs/2507.10284)|null|
+|**2025-07-11**|**Agent Safety Alignment via Reinforcement Learning**|Zeyang Sha et.al.|[2507.08270](http://arxiv.org/abs/2507.08270)|null|
 |**2025-07-10**|**Artificial Generals Intelligence: Mastering Generals.io with Reinforcement Learning**|Matej Straka et.al.|[2507.06825](http://arxiv.org/abs/2507.06825)|null|
 |**2025-07-09**|**From Data-Centric to Sample-Centric: Enhancing LLM Reasoning via Progressive Optimization**|Xinjie Chen et.al.|[2507.06573](http://arxiv.org/abs/2507.06573)|null|
 |**2025-07-08**|**CogniSQL-R1-Zero: Lightweight Reinforced Reasoning for Efficient SQL Generation**|Kushal Gajjar et.al.|[2507.06013](http://arxiv.org/abs/2507.06013)|null|
@@ -269,7 +274,7 @@
 |**2025-01-13**|**Online inductive learning from answer sets for efficient reinforcement learning exploration**|Celeste Veronese et.al.|[2501.07445](http://arxiv.org/abs/2501.07445)|null|
 |**2025-02-20**|**AlphaPO -- Reward shape matters for LLM alignment**|Aman Gupta et.al.|[2501.03884](http://arxiv.org/abs/2501.03884)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Potential Funtions
 
@@ -277,7 +282,7 @@
 |---|---|---|---|---|
 |**2002-12-19**|**DNA Torsional Solitons in Presence of localized Inhomogeneities**|Luis Morales Molina et.al.|[nlin/0112040](http://arxiv.org/abs/nlin/0112040)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## Potential Funtion
 
@@ -285,7 +290,7 @@
 |---|---|---|---|---|
 |**2002-12-19**|**DNA Torsional Solitons in Presence of localized Inhomogeneities**|Luis Morales Molina et.al.|[nlin/0112040](http://arxiv.org/abs/nlin/0112040)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 ## State representation learning
 
@@ -334,7 +339,7 @@
 |**2020-02-27**|**Acceleration of Actor-Critic Deep Reinforcement Learning for Visual Grasping in Clutter by State Representation Learning Based on Disentanglement of a Raw Input Image**|Taewon Kim et.al.|[2002.11903](http://arxiv.org/abs/2002.11903)|null|
 |**2021-06-04**|**Domain-Adversarial and Conditional State Space Model for Imitation Learning**|Ryo Okumura et.al.|[2001.11628](http://arxiv.org/abs/2001.11628)|null|
 
-<p align=right>(<a href=#updated-on-20250714>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

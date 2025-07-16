@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.14
+## Updated on 2025.07.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## MuZero
@@ -59,9 +59,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**Deep Reinforcement Learning in Applied Control: Challenges, Analysis, and Insights**|Klinsmann Agyei et.al.|[2507.08196](http://arxiv.org/abs/2507.08196)|null|
+|**2025-07-10**|**"So, Tell Me About Your Policy...": Distillation of interpretable policies from Deep Reinforcement Learning agents**|Giovanni Dispoto et.al.|[2507.07848](http://arxiv.org/abs/2507.07848)|null|
+|**2025-07-09**|**Combining Pre-Trained Models for Enhanced Feature Representation in Reinforcement Learning**|Elia Piccoli et.al.|[2507.07197](http://arxiv.org/abs/2507.07197)|null|
 |**2025-07-08**|**CogniPlay: a work-in-progress Human-like model for General Game Playing**|Aloïs Rautureau et.al.|[2507.05868](http://arxiv.org/abs/2507.05868)|null|
 |**2025-07-08**|**Detecting and Mitigating Reward Hacking in Reinforcement Learning Systems: A Comprehensive Empirical Study**|Ibne Farabi Shihab et.al.|[2507.05619](http://arxiv.org/abs/2507.05619)|null|
-|**2025-07-07**|**Counting with two-level polynomials**|Tristram Bogart et.al.|[2507.05473](http://arxiv.org/abs/2507.05473)|null|
+|**2025-07-11**|**Counting with two-level polynomials**|Tristram Bogart et.al.|[2507.05473](http://arxiv.org/abs/2507.05473)|null|
 |**2025-07-07**|**Beyond Training-time Poisoning: Component-level and Post-training Backdoors in Deep Reinforcement Learning**|Sanyam Vyas et.al.|[2507.04883](http://arxiv.org/abs/2507.04883)|null|
 |**2025-07-05**|**Tied Pools and Drawn Games**|Roderick Edwards et.al.|[2507.03894](http://arxiv.org/abs/2507.03894)|null|
 |**2025-07-02**|**Generalized Adaptive Transfer Network: Enhancing Transfer Learning in Reinforcement Learning Across Domains**|Abhishek Verma et.al.|[2507.03026](http://arxiv.org/abs/2507.03026)|null|
@@ -81,7 +84,7 @@ layout: default
 |**2025-06-18**|**Deep Reinforcement Learning Xiangqi Player with Monte Carlo Tree Search**|Berk Yilmaz et.al.|[2506.15880](http://arxiv.org/abs/2506.15880)|null|
 |**2025-06-17**|**Mxplainer: Explain and Learn Insights by Imitating Mahjong Agents**|Lingfeng Li et.al.|[2506.14246](http://arxiv.org/abs/2506.14246)|**[link](https://github.com/lingfeng158/mxplainer)**|
 |**2025-06-16**|**Meta-learning how to Share Credit among Macro-Actions**|Ionel-Alexandru Hosu et.al.|[2506.13690](http://arxiv.org/abs/2506.13690)|null|
-|**2025-06-12**|**Rating competitors in games with strength-dependent tie probabilities**|Mark E. Glickman et.al.|[2506.11354](http://arxiv.org/abs/2506.11354)|null|
+|**2025-07-11**|**Rating competitors in games with strength-dependent tie probabilities**|Mark E. Glickman et.al.|[2506.11354](http://arxiv.org/abs/2506.11354)|null|
 |**2025-06-10**|**Uncertainty Prioritized Experience Replay**|Rodrigo Carrasco-Davis et.al.|[2506.09270](http://arxiv.org/abs/2506.09270)|null|
 |**2025-06-05**|**Learning to Plan via Supervised Contrastive Learning and Strategic Interpolation: A Chess Case Study**|Andrew Hamara et.al.|[2506.04892](http://arxiv.org/abs/2506.04892)|**[link](https://github.com/andrewhamara/solis)**|
 |**2025-06-10**|**TextAtari: 100K Frames Game Playing with Language Agents**|Wenhao Li et.al.|[2506.04098](http://arxiv.org/abs/2506.04098)|**[link](https://github.com/Lww007/Text-Atari-Agents)**|
@@ -167,6 +170,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-14**|**Prompt Informed Reinforcement Learning for Visual Coverage Path Planning**|Venkat Margapuri et.al.|[2507.10284](http://arxiv.org/abs/2507.10284)|null|
+|**2025-07-11**|**Agent Safety Alignment via Reinforcement Learning**|Zeyang Sha et.al.|[2507.08270](http://arxiv.org/abs/2507.08270)|null|
 |**2025-07-10**|**Artificial Generals Intelligence: Mastering Generals.io with Reinforcement Learning**|Matej Straka et.al.|[2507.06825](http://arxiv.org/abs/2507.06825)|null|
 |**2025-07-09**|**From Data-Centric to Sample-Centric: Enhancing LLM Reasoning via Progressive Optimization**|Xinjie Chen et.al.|[2507.06573](http://arxiv.org/abs/2507.06573)|null|
 |**2025-07-08**|**CogniSQL-R1-Zero: Lightweight Reinforced Reasoning for Efficient SQL Generation**|Kushal Gajjar et.al.|[2507.06013](http://arxiv.org/abs/2507.06013)|null|
